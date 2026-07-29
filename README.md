@@ -1,10 +1,10 @@
 # 🐍 SmartBizCrux Python Hands-On Practices
 
-Welcome to my Python learning repository!
+This repository contains my hands-on assignments, practice exercises, and projects completed during the **SmartBizCrux Python Study Group**.
 
-This repository contains my hands-on exercises, assignments, and projects completed during the **SmartBizCrux Python Study Group**. It documents my progress as I learn Python through practical exercises, real-world scenarios, and case studies.
+The exercises cover fundamental Python concepts taught throughout the program and demonstrate my progress through practical problem-solving and real-world case studies.
 
-## 📚 Repository Contents
+## 📂 Repository Contents
 
 - **Hands-On #1:** Introduction to Python
 - **Hands-On #2:** Variables and Data Types
@@ -14,63 +14,38 @@ This repository contains my hands-on exercises, assignments, and projects comple
 - **Hands-On #5B:** String Formatting in Python
 - **Gift I:** Portfolio Performance Tracker (FinTech Case Study)
 
-## 💡 Topics Covered
+## 🛠️ Skills Demonstrated
 
-Throughout these exercises, I practiced:
+Throughout these exercises and projects, I practiced:
 
-- Python syntax
-- Jupyter Notebook
-- Variables
-- Data Types
-- User Input and Output
-- Arithmetic Operators
-- Assignment Operators
-- Comparison Operators
-- Logical Operators
-- String Formatting (f-Strings)
-- Number Formatting
-- Professional Output Formatting
-- Problem Solving with Python Fundamentals
+- Python fundamentals
+- Variables and data types
+- User input and output
+- Arithmetic operations
+- Assignment operators
+- Comparison operators
+- Logical operators
+- String formatting using f-strings
+- Basic problem solving
+- Writing clean and readable Python code
 
-## 🎯 Learning Objectives
-
-This repository reflects my learning journey as I strengthen my Python fundamentals through consistent practice.
-
-Each hands-on exercise focuses on applying core Python concepts to practical scenarios, helping me build problem-solving skills and prepare for more advanced topics in Python programming.
-
-## 📁 Repository Structure
-
-```text
-smartbizcrux-python-hands-on-practices/
-│
-├── Hands-On #1 - Introduction to Python.ipynb
-├── Hands-On #2 - Variables and Data Types.ipynb
-├── Hands-On #3 - Arithmetic Operators.ipynb
-├── Hands-On #4A - Comparison and Logical Operators.ipynb
-├── Hands-On #4B - Assignment Operators.ipynb
-├── Hands-On #5B - String Formatting in Python.ipynb
-├── Gift I - Portfolio Performance Tracker.ipynb
-└── README.md
-```
-
-## 🚀 Featured Project
+## 🌟 Featured Project
 
 ### Gift I – Portfolio Performance Tracker
 
-As part of the first semester project, I developed a **Portfolio Performance Tracker** for a FinTech case study using Python fundamentals.
+This project applies Python fundamentals to a FinTech case study by:
 
-The program:
-- Calculates investment profit
-- Computes Return on Investment (ROI)
-- Updates portfolio values
-- Evaluates investment performance
-- Determines portfolio health
-- Identifies when a financial advisor review is required
-- Generates a professional portfolio performance report
+- Calculating investment profit
+- Computing Return on Investment (ROI)
+- Updating portfolio values
+- Evaluating portfolio performance
+- Determining portfolio health
+- Identifying when a financial advisor review is required
+- Generating a structured portfolio performance report
 
-## 📖 About the Study Group
+## 📌 Purpose
 
-The **SmartBizCrux Python Study Group** provides structured lessons, practical assignments, and real-world projects designed to help learners build a strong foundation in Python programming through consistent practice.
+I created this repository to document my learning journey and showcase the practical exercises and projects completed during the SmartBizCrux Python Study Group. It reflects my commitment to building a strong foundation in Python through consistent practice and hands-on learning.
 
 ## 👩🏽‍💻 Author
 
@@ -78,6 +53,8 @@ The **SmartBizCrux Python Study Group** provides structured lessons, practical a
 
 Economics Student | Data Analyst | Python Learner
 
-I'm passionate about using data to solve real-world problems and continuously improving my technical skills through hands-on learning.
+I'm passionate about building practical technical skills and applying data-driven solutions to real-world problems.
 
-⭐ Thank you for visiting my repository. Feel free to explore my work and follow my learning journey!
+---
+
+*Thank you for visiting this repository. Feedback and suggestions are always welcome.*
